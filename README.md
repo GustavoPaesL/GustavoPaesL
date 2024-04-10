@@ -2,7 +2,7 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoPaesL&theme=tokyonight&show_icons=true&hide=issues,contribs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoPaesL&count_private=true&theme=tokyonight&show_icons=true&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoPaesL&layout=compact&card_width=320&theme=tokyonight" />
